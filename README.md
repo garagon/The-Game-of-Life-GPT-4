@@ -3,10 +3,10 @@
 This project is an implementation of the cellular automaton known as John Conway's "Game of Life" using Python and Pygame.
 
 ## Requirements
-Python 3.x
-Pygame
+- Python 3.x
+- Pygame
 
-##Installation
+## Installation
 To install the dependencies, run the following command in your terminal:
 
 `pip install pygame`
