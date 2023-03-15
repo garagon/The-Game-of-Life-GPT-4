@@ -18,7 +18,9 @@ To run the program, simply execute the following command in your terminal:
 
 ## Usage
 
-The Game of Life starts with a random initial set of living and dead cells on a grid. Cells evolve over time following simple rules:
+The Game of Life starts with a random initial set of living and dead cells on a grid. 
+
+Cells evolve over time following simple rules:
 
 - A living cell with fewer than two living neighbors dies (underpopulation).
 - A living cell with two or three living neighbors survives.
